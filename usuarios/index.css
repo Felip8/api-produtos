@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+  background-color: rgb(155, 106, 106);
+  align-items: center;
+}
+
+p {
+  color: white;
+}
+
+button {
+  border: none;
+  width: 100px;
+  height: 30px;
+  border: solid;
+  border-width: 0.5px;
+  border-radius: 5px;
+  background-color: rgb(178, 178, 226);
+}
+
+.textoApi {
+}
+
+#texto-usuarios p {
+  border: solid;
+  background-color: rgb(247, 72, 72);
+  margin: 5px;
+  padding: 5px;
+  border-radius: 4px;
+}
